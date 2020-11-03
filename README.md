@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Этот проект является тестовым заданием на вакансию Frontend-разработчик в компанию LAR https://www.lar.ru/
@@ -9,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## installation the App
 
 ```bash 
-  npm i
+ $ npm i
 ```
 
 ## running the App
@@ -17,4 +15,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ```bash
   $ npm start
 ```
-http://localhost:3000/
+localhost:3000
