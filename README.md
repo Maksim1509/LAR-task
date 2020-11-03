@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Этот проект является тестовым заданием на вакансию Frontend-разработчик в компанию LAR https://www.lar.ru/
 
+Ссылка на проект https://lar-task.herokuapp.com/
+
 ## installation the App
 
 ```bash 
